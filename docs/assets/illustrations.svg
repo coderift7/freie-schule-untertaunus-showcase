@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="mark" viewBox="0 0 48 48">
+    <path d="M6 41V21C6 11 14 5 24 5s18 6 18 16v20H6Z" fill="#234438"/>
+    <path d="M23 35c2-7 1-12-2-16m3 10c6-9 9-11 13-12-1 7-6 12-13 12Zm-1-4c-9 1-13-3-14-9 7 0 11 3 14 9Z" fill="none" stroke="#f8df9c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 41h36" stroke="#a44632" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="door-krippe" viewBox="0 0 100 150">
+    <path fill="#eeb78c" d="M0 0h100v150H0z"/>
+    <path fill="#f9d998" d="M0 4q32-8 51 12 20 20 49 8V0H0Z"/>
+    <path fill="#c66f57" d="M0 119q20-33 46-23 31 12 54-8v62H0Z"/>
+    <path fill="#a95143" d="M0 134q24-13 49-11 21 2 51-13v40H0Z"/>
+    <path d="M9 104V86a41 41 0 0 1 82 0v17" fill="none" stroke="#f8e4ad" stroke-width="8" stroke-linecap="round"/>
+    <path d="M21 104V85a29 29 0 0 1 58 0v17" fill="none" stroke="#a65145" stroke-width="5.5" stroke-linecap="round"/>
+    <path d="M31 101V85a19 19 0 0 1 38 0v16" fill="none" stroke="#f8df9c" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="70" cy="27" r="11" fill="#c8793b"/>
+    <path d="M18 21h8m-4-4v8m63 108h6m-3-3v6" stroke="#fbe6b5" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="16" cy="123" r="2.4" fill="#ffdd9b"/><circle cx="74" cy="122" r="2" fill="#ffdd9b"/>
+    <use href="#door-lines"/>
+  </symbol>
+
+  <symbol id="door-kita" viewBox="0 0 100 150">
+    <path fill="#7e9b70" d="M0 0h100v150H0z"/>
+    <path fill="#587f59" d="M0 86q25 2 42 21 20 18 58 6v37H0Z"/>
+    <path fill="none" stroke="#dce1a6" stroke-width="2.5" stroke-linecap="round" d="M25 146q7-25-7-50m22 41q-1-35 10-64m20 66q-9-24 9-42M49 93q-6-7-11-8m9 22q12-13 23-12m-42 18q-11-5-17-4m63 12q11-7 16-6"/>
+    <path fill="#e7bb79" d="M25 95c-13 9-22-8-11-12-6-10 8-16 13-7 9-6 17 9 7 13 1 6-5 9-9 6Z"/>
+    <path fill="#f4de9e" d="M54 66c7-6 2-14-5-14 4-11-12-15-15-4-11-3-14 13-3 16-1 10 15 14 17 3 2 1 4 0 6-1Z"/>
+    <path fill="#e5a489" d="M83 94c9 5 16-7 9-13 5-7-6-15-12-8-9-3-13 9-6 14-2 6 3 10 9 7Z"/>
+    <path d="M23 86h1m16-26h1m43 24h1" stroke="#a35d49" stroke-width="4.2" stroke-linecap="round"/>
+    <path fill="#c5d294" d="M7 44q19-18 32-13-11 19-32 13Zm60-22q6-13 20-10-1 13-20 10Zm-6 19q13-10 29-6-10 17-29 6Z"/>
+    <path d="M13 23h6m53 33 4-2m-14-28h3" stroke="#f6e4a7" stroke-width="2.7" stroke-linecap="round"/>
+    <use href="#door-lines"/>
+  </symbol>
+
+  <symbol id="door-grundschule" viewBox="0 0 100 150">
+    <path fill="#637e99" d="M0 0h100v150H0z"/>
+    <path fill="#7d9eb2" d="M0 79C37 75 59 104 100 79V0H0Z"/>
+    <path fill="#4a6984" d="M0 136q47-30 100-15v29H0Z"/>
+    <path d="M11 104q14 6 36-4 22-11 19-23-6-10-23 2-12 12 0 14 21-1 34-21" fill="none" stroke="#f2dca5" stroke-width="2" stroke-dasharray="2.5 4" stroke-linecap="round"/>
+    <path d="m20 47 66-18-22 42-15-16-12 8 3-13Z" fill="#f7e5bb" stroke="#385871" stroke-width="1.9" stroke-linejoin="round"/>
+    <path d="m40 50 46-21-37 26-12 8Z" fill="#dfc58e" stroke="#385871" stroke-width="1.9" stroke-linejoin="round"/>
+    <path d="M17 18v10m-5-5h10m56 75v12m-6-6h12m-57 9v10m-5-5h10" stroke="#f7e4a7" stroke-width="2.1" stroke-linecap="round"/>
+    <path d="M9 70h3m52-55h2m22 38h2M46 132h2m39-2h2" stroke="#ddae74" stroke-width="3" stroke-linecap="round"/>
+    <use href="#door-lines"/>
+  </symbol>
+
+  <symbol id="door-sekundarstufe" viewBox="0 0 100 150">
+    <path fill="#dfa85f" d="M0 0h100v150H0z"/>
+    <path fill="#b4604b" d="m0 121 65-53 35 26v56H0Z"/>
+    <path fill="#574f64" d="M0 150v-40l36-28 29 34-36 34Z"/>
+    <path fill="#f4cf8b" d="m71 104 29 17v29H57Z"/>
+    <circle cx="59" cy="44" r="27" fill="#a65a49"/>
+    <path d="M40 63q-17-25 9-42m-5 47q-19-29 10-48m-5 50q-17-28 10-50m-3 52Q39 43 66 21" fill="none" stroke="#f8d8a2" stroke-width="1.4" opacity=".83"/>
+    <path d="m12 25 16 3-3 12-16-3Zm63 57 13-10m-7 14 13-10M14 136l19-17" fill="none" stroke="#594e58" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m20 111 13-12 16 17-12 11Zm58-75 16-12m-9 18 10-8" fill="none" stroke="#f9db9f" stroke-width="2" stroke-linecap="round"/>
+    <use href="#door-lines"/>
+  </symbol>
+
+  <symbol id="door-teamer" viewBox="0 0 100 150">
+    <path fill="#996e81" d="M0 0h100v150H0z"/>
+    <path fill="#77576f" d="M0 103q23-8 53 2 29 9 47-6v51H0Z"/>
+    <path d="M0 129q18-16 39-8 28 12 61-6" fill="none" stroke="#bc8e94" stroke-width="2"/>
+    <path fill="none" stroke="#ebd1ae" stroke-width="2.1" stroke-linecap="round" d="M15 144q-7-43 3-69m-4 28q-6-15-10-17m11 32q7-14 14-17m53 41q11-31 0-63m4 33q6-11 12-14m-13 23q-8-11-13-12"/>
+    <path fill="#d6ad8e" d="M16 74q-7-12 7-18 5 12-7 18Zm65 6q-12-9-4-19 9 5 4 19Z"/>
+    <path d="M27 51h41v18q0 16-20 16t-21-16Z" fill="#e8c097" stroke="#573d54" stroke-width="2.5"/>
+    <path d="M67 56h6q13 0 8 9-3 6-14 5M36 90h29M42 42q-5-6 0-13m12 13q5-6 0-13" fill="none" stroke="#f6dcbc" stroke-width="2.6" stroke-linecap="round"/>
+    <path d="m13 27 5-7m1 12 5-8m52 1 5 7m2-12 5 7" stroke="#dcb59d" stroke-width="2.4" stroke-linecap="round"/>
+    <use href="#door-lines"/>
+  </symbol>
+
+  <g id="door-lines" fill="none">
+    <path d="M4 146V5h92v141Z" stroke="#4b3c35" stroke-width="1.35" opacity=".6"/>
+    <path d="M6 143V7h88v136Z" stroke="#fff4d5" opacity=".23"/>
+    <path d="M49.6 4v143" stroke="#49392f" stroke-width="1.4" opacity=".69"/>
+    <path d="M51 4v143" stroke="#fff4d5" opacity=".22"/>
+    <path d="M42 79v7m16-7v7" stroke="#4b3c35" stroke-width="5" stroke-linecap="round"/>
+    <path d="M42 79v5m16-5v5" stroke="#f5d892" stroke-width="3" stroke-linecap="round"/>
+    <path d="M10 14h8m53 0h13M10 136h5m67 0h7" stroke="#fff1d3" stroke-width="1.2" opacity=".44" stroke-linecap="round"/>
+  </g>
+
+  <defs>
+    <pattern id="floorboard" width="50" height="80" patternUnits="userSpaceOnUse" patternTransform="rotate(27)">
+      <path d="M2 0v80m11-75v39m20 5v22" fill="none" stroke="#98744c" stroke-opacity=".35"/>
+      <path d="M4 0v80" stroke="#fff0be" stroke-opacity=".28"/>
+    </pattern>
+    <pattern id="room-texture" width="67" height="58" patternUnits="userSpaceOnUse">
+      <path d="M2 8l3 1m15-5 4 1m29 2 2-1M8 32l3-1m22-8 3 1m20 10 4 1M15 50l3-1m26-7 3 1m16 8h2" stroke="#594e3c" stroke-width=".9" opacity=".18" stroke-linecap="round"/>
+      <path d="M17 15h4m23-3h2m13 9h3M6 41h3m20 1h3m17 13h3" stroke="#fff6d6" opacity=".46" stroke-linecap="round"/>
+    </pattern>
+    <g id="floor">
+      <path d="M0 274 104 246h403l93 35v119H0Z" fill="#cfaa7d"/>
+      <path d="M0 274 104 246h403l93 35v119H0Z" fill="url(#floorboard)"/>
+      <path d="M0 275 104 247h403l93 35" fill="none" stroke="#ab8059" stroke-width="3"/>
+    </g>
+    <g id="window">
+      <path d="M0 119V53C0 19 23 0 59 0s59 22 59 53v66Z" fill="#c7dce0" stroke="#836b53" stroke-width="4.5"/>
+      <path d="M4 80q24-22 52-9 35 15 57-11v55H4Z" fill="#9db487"/>
+      <circle cx="81" cy="40" r="15" fill="#f2cc81"/>
+      <path d="M59 3v114M2 63h114" fill="none" stroke="#f9e8c6" stroke-width="5"/>
+      <path d="M-6 119h130v8H-6Z" fill="#a87e57" stroke="#836b53" stroke-width="2"/>
+      <path d="M4 58q1-40 35-52" fill="none" stroke="#f5efde" stroke-width="2.5" opacity=".8"/>
+    </g>
+    <g id="plant">
+      <path d="M0 1h52l-8 46H9Z" fill="#bd775c" stroke="#8f5746" stroke-width="2"/>
+      <path d="M5 15h43m-40 8h39m-37 9h35" stroke="#dfa88c" stroke-width="1.7"/>
+      <path d="M25 1q7-31 5-68M27-11q-8-22-18-32m18 23q7-17 18-24" fill="none" stroke="#526e4b" stroke-width="3" stroke-linecap="round"/>
+      <path d="M30-53q-13-15 2-25 8 11-2 25ZM17-28q-16 1-15-18 15-2 15 18Zm14-3q7-21 25-17-3 16-25 17Zm-7 20Q8-10 6-26q15 0 18 15Z" fill="#719060"/>
+    </g>
+    <g id="pendant">
+      <path d="M0 0v59" stroke="#6b5748" stroke-width="3"/>
+      <path d="M-35 85q6-28 35-29 30 1 35 29Z" fill="#d7a35b" stroke="#936747" stroke-width="2.3"/>
+      <path d="M-35 85q35 12 70 0" fill="#f5d5a2" stroke="#936747" stroke-width="2"/>
+    </g>
+    <g id="texture">
+      <path d="M0 0h600v400H0Z" fill="url(#room-texture)"/>
+    </g>
+  </defs>
+
+  <symbol id="room-krippe" viewBox="0 0 600 400">
+    <path d="M0 0h600v400H0Z" fill="#f5ddc1"/>
+    <path d="M0 0l104 49v199L0 275Z" fill="#eac4a5"/>
+    <path d="M507 49 600 0v282l-93-34Z" fill="#eecdb2"/>
+    <use href="#floor"/>
+    <path d="m362 251 127-3 90 133-230-3Z" fill="#f7e1ae" opacity=".59"/>
+    <use href="#window" transform="translate(362 53) scale(1.02)"/>
+    <path d="M118 52q64 33 133 13" fill="none" stroke="#987a60" stroke-width="1.8"/>
+    <path d="m130 57 5 26 18-20m17 4 9 26 15-23m16 0 13 23 12-24" fill="#c6816b"/>
+    <path d="m153 62 8 26 16-21m17 3 10 24 13-24" fill="#dda55e"/>
+    <use href="#pendant" transform="translate(291 0) scale(.8)"/>
+    <ellipse cx="288" cy="329" rx="178" ry="42" fill="#d58e75"/>
+    <ellipse cx="288" cy="329" rx="155" ry="32" fill="none" stroke="#f5d0a1" stroke-width="3" stroke-dasharray="3 5"/>
+    <path d="M129 258v-55q0-23 25-23h85q24 0 24 23v55Z" fill="#a77c70" stroke="#805d56" stroke-width="3"/>
+    <path d="M110 261v-33q0-13 17-13 18 0 18 16v14h102v-14q0-16 18-16 17 0 17 13v33q0 15-17 15H127q-17 0-17-15Z" fill="#bc8c80" stroke="#805d56" stroke-width="3"/>
+    <path d="M147 256h98m-119 20-4 10m143-10 4 10" stroke="#805d56" stroke-width="3" stroke-linecap="round"/>
+    <path d="M167 227q-9-18 6-21 14-4 22 10l-3 21Z" fill="#efc581"/>
+    <path d="M216 236q-15-17-4-26 14-9 25 7l-3 19Z" fill="#e6ad9b"/>
+    <path d="M303 320h34v33h-34Z" fill="#e9bc70" stroke="#9d6f4a" stroke-width="2"/>
+    <path d="m342 353 20-28 20 28Z" fill="#789063" stroke="#55724d" stroke-width="2"/>
+    <path d="M308 318v-13a13 13 0 0 1 26 0v13Z" fill="#a76350" stroke="#8f5845" stroke-width="2"/>
+    <use href="#plant" transform="translate(508 270) scale(.81)"/>
+    <use href="#texture"/>
+  </symbol>
+
+  <symbol id="room-kita" viewBox="0 0 600 400">
+    <path d="M0 0h600v400H0Z" fill="#efe5bd"/>
+    <path d="M0 0l104 49v199L0 275Z" fill="#d7d8a7"/>
+    <path d="M507 49 600 0v282l-93-34Z" fill="#ddd8ae"/>
+    <use href="#floor"/>
+    <use href="#window" transform="translate(128 49)"/>
+    <use href="#pendant" transform="translate(311 0)"/>
+    <path d="M388 100h101v96H388Z" fill="#d4b077" stroke="#8c704d" stroke-width="3"/>
+    <path d="M396 108h85v80h-85Z" fill="#f7e5bd"/>
+    <path d="M415 170q9-21 23-27-1 21-23 27Zm27-20q3-23 21-23 1 17-21 23Zm-13 34q16-31 19-42" fill="#789665" stroke="#6b875c" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="311" cy="352" rx="196" ry="31" fill="#a9a66e" opacity=".39"/>
+    <path d="m180 286-13 67m220-67 12 67m-186-64-6 52m153-53 6 53" fill="none" stroke="#805d43" stroke-width="10" stroke-linecap="round"/>
+    <ellipse cx="284" cy="282" rx="112" ry="29" fill="#b27e57" stroke="#815d42" stroke-width="3"/>
+    <ellipse cx="284" cy="275" rx="112" ry="27" fill="#e1bb83" stroke="#956d48" stroke-width="3"/>
+    <path d="m244 265 55-9 32 17-56 9Z" fill="#f8edcf" stroke="#b38761" stroke-width="1.8"/>
+    <path d="M266 270q12-6 23 0m-5-2q8-8 18-6" fill="none" stroke="#aa6652" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="m311 276 27-6m-24 11 27-6m-103 3-25-6" stroke="#778e5a" stroke-width="3.3" stroke-linecap="round"/>
+    <path d="M340 257v-26h18v26q-9 5-18 0Z" fill="#a16859" stroke="#825046" stroke-width="2"/>
+    <path d="m346 231-5-18m10 18 2-21m2 21 8-18" stroke="#4e716b" stroke-width="3" stroke-linecap="round"/>
+    <use href="#plant" transform="translate(462 289) scale(1.34)"/>
+    <use href="#plant" transform="translate(68 284) scale(.66)"/>
+    <use href="#texture"/>
+  </symbol>
+
+  <symbol id="room-grundschule" viewBox="0 0 600 400">
+    <path d="M0 0h600v400H0Z" fill="#e4e5cc"/>
+    <path d="M0 0l104 49v199L0 275Z" fill="#d2d8c1"/>
+    <path d="M507 49 600 0v282l-93-34Z" fill="#d1d7bd"/>
+    <use href="#floor"/>
+    <use href="#window" transform="translate(352 50) scale(1.1)"/>
+    <use href="#pendant" transform="translate(310 0) scale(.91)"/>
+    <path d="M101 165h155v106H101Z" fill="#bd9468" stroke="#87674a" stroke-width="3"/>
+    <path d="M108 173h141v87H108Z" fill="#9a7756"/>
+    <path d="M110 213h137v6H110Z" fill="#cfac7c"/>
+    <path d="M115 179h13v33h-13Zm59 1h11v32h-11Zm-20 43h16v36h-16Zm46 4h12v32h-12Z" fill="#a66855"/>
+    <path d="M129 176h14v36h-14Zm61 4 11-3 7 35h-13Zm23 50h9v29h-9Z" fill="#e5c07b"/>
+    <path d="M144 184h17v28h-17Zm66-11h16v39h-16Zm-85 56h22v30h-22Z" fill="#769185"/>
+    <path d="M224 183h16v29h-16Zm-47 39h18v37h-18Z" fill="#c4bd8a"/>
+    <path d="m228 289-16 82m217-82 14 81" stroke="#805d43" stroke-width="10" stroke-linecap="round"/>
+    <path d="m179 296 54-34h184l52 33v15H179Z" fill="#bd8d62" stroke="#805e43" stroke-width="3"/>
+    <path d="m179 296 54-34h184l52 33Z" fill="#dfb786" stroke="#805e43" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M276 282q20-19 45-5 21-16 42 0l-13 14q-18-7-30 1-24-10-45-4Z" fill="#f7ebca" stroke="#9f7b59" stroke-width="2"/>
+    <path d="m320 277 0 15m-31-9 22 1m19-1 18-3" stroke="#b38e6b" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M231 256q0-19 19-21 16-2 22 13l-12 13Z" fill="#6f899c" stroke="#506b7d" stroke-width="2.4"/>
+    <path d="m251 237 10-18 13 2" fill="none" stroke="#506b7d" stroke-width="3"/>
+    <path d="m270 232 16-17 15 13-16 17Z" fill="#f6e8bc" stroke="#aa8763" stroke-width="2"/>
+    <use href="#plant" transform="translate(517 284) scale(.84)"/>
+    <use href="#texture"/>
+  </symbol>
+
+  <symbol id="room-sekundarstufe" viewBox="0 0 600 400">
+    <path d="M0 0h600v400H0Z" fill="#f0d8b4"/>
+    <path d="M0 0l104 49v199L0 275Z" fill="#e6c1a2"/>
+    <path d="M507 49 600 0v282l-93-34Z" fill="#e8c8a7"/>
+    <use href="#floor"/>
+    <use href="#window" transform="translate(116 52) scale(.93)"/>
+    <use href="#pendant" transform="translate(303 0) scale(1.02)"/>
+    <path d="M345 61h137v136H345Z" fill="#b18462" stroke="#8b644d" stroke-width="3"/>
+    <path d="m359 82 48-5 5 38-48 5Z" fill="#edcb8b"/>
+    <path d="m417 90 51 4-4 51-51-4Z" fill="#e4e0bc"/>
+    <path d="m366 130 51 8-7 45-51-8Z" fill="#d7a390"/>
+    <path d="m426 153 32-3 3 28-32 3Z" fill="#a0ac83"/>
+    <path d="m371 102 26-7m-25 12 18-4m42 27 10-24 12 22Zm-58 25 22 4m-23 3 20 4" fill="none" stroke="#795c52" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="m172 295-9 70m283-70 12 70" stroke="#735943" stroke-width="12" stroke-linecap="round"/>
+    <path d="m140 294 61-44h225l52 44v16H140Z" fill="#ac805d" stroke="#755940" stroke-width="3"/>
+    <path d="m140 294 61-44h225l52 44Z" fill="#d4ab78" stroke="#755940" stroke-width="3"/>
+    <path d="m240 279 47-17 68 11-46 15Z" fill="#f3e2bd" stroke="#9d7e63" stroke-width="2"/>
+    <path d="m283 276 12-7 26 5-16 8Zm-22 3 16 3" fill="none" stroke="#7c7484" stroke-width="1.9"/>
+    <path d="m370 276 34 6m-30-14 33 6" stroke="#9a6756" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M192 275v-38l34-16 34 16v37l-34 16Z" fill="#ac7a5e" stroke="#795948" stroke-width="2.3"/>
+    <path d="m192 237 34 16 34-16-34-16Z" fill="#d7a883" stroke="#795948" stroke-width="2.3"/>
+    <path d="M226 253v37m9-33 16-8" fill="none" stroke="#795948" stroke-width="2.2"/>
+    <use href="#plant" transform="translate(511 270) scale(.91)"/>
+    <use href="#texture"/>
+  </symbol>
+
+  <symbol id="room-teamer" viewBox="0 0 600 400">
+    <path d="M0 0h600v400H0Z" fill="#f1ddcc"/>
+    <path d="M0 0l104 49v199L0 275Z" fill="#e5c8bd"/>
+    <path d="M507 49 600 0v282l-93-34Z" fill="#e6c7ba"/>
+    <use href="#floor"/>
+    <use href="#window" transform="translate(362 50) scale(1.07)"/>
+    <use href="#pendant" transform="translate(282 0) scale(.97)"/>
+    <path d="M145 67h92v64h-92Z" fill="#ac8065" stroke="#8a664e" stroke-width="2.8"/>
+    <path d="M152 74h78v50h-78Z" fill="#f1e2c2"/>
+    <path d="M158 113q19-22 33-11 19 12 32-8v23h-65Z" fill="#879c70"/>
+    <circle cx="201" cy="91" r="8" fill="#dca86d"/>
+    <path d="M143 253v-50q0-31 34-31h132q32 0 32 31v50Z" fill="#987689" stroke="#715c6e" stroke-width="3"/>
+    <path d="M133 259v-40q0-14 17-14t17 18v12h148v-12q0-18 17-18 18 0 18 14v40q0 16-18 16H150q-17 0-17-16Z" fill="#ac8699" stroke="#715c6e" stroke-width="3"/>
+    <path d="M170 249h143m-162 27-3 11m184-11 4 11" fill="none" stroke="#715c6e" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M180 225q-6-19 10-23 20-4 29 12l-6 23Z" fill="#e0ba83"/>
+    <path d="M263 236q-12-19 0-29 15-10 34 7l-3 22Z" fill="#d5a89d"/>
+    <ellipse cx="308" cy="335" rx="182" ry="35" fill="#b48283" opacity=".48"/>
+    <path d="m266 312-7 36m128-36 8 36" stroke="#805f49" stroke-width="7" stroke-linecap="round"/>
+    <ellipse cx="326" cy="310" rx="74" ry="22" fill="#b28262" stroke="#805f49" stroke-width="2.7"/>
+    <ellipse cx="326" cy="304" rx="74" ry="20" fill="#dcb080" stroke="#805f49" stroke-width="2.7"/>
+    <path d="M284 286h22v15q-11 7-22 0Zm53-2h23v15q-11 8-23 0Z" fill="#e4d5aa" stroke="#8b6b55" stroke-width="2.2"/>
+    <path d="M306 289h5q6 3 0 8h-5m54-10h5q6 3 0 8h-5" fill="none" stroke="#8b6b55" stroke-width="2"/>
+    <use href="#plant" transform="translate(463 259) scale(1.38)"/>
+    <use href="#texture"/>
+  </symbol>
+</svg>
