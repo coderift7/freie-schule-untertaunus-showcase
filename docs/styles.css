@@ -805,7 +805,7 @@ h2 em {
     gap: 4px;
   }
 }
-@media (max-width: 760px) {
+@media (max-width: 900px) {
   html {
     scroll-padding-top: 90px;
   }

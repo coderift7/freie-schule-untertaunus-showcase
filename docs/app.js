@@ -34,7 +34,7 @@
       room: 'Ein gemeinsamer Raum mit Sofa, zwei Tassen auf einem kleinen Tisch und einer Pflanze.',
     },
   ];
-  const home = document.querySelector('#home-view');
+  const home = document.querySelector('#hof');
   const detail = document.querySelector('#detail-view');
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   const siteTitle = 'Freie Schule Untertaunus · Entwurf';
